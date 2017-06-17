@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## This contains the reusable RadioGroup and Radio input using the ReactJS library.
-The consumer of this component just need to follow the below intefeace
+The consumer of this component just need to follow the below interface
 
 ```
 <RadioGroup name="fruits" defaultValue="Apple" handleSelect={this.handleFruits}>

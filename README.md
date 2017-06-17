@@ -16,4 +16,4 @@ The consumer of this component just need to follow the below interface
 
 - Radio Group component accepts the defaultValue and the name of the group and passes the selectedOption to the
   handleSelect callback. So that consumer of the component keep track of the selected value.
-- Radio Component just need to value of the Radio option
+- Radio Component just need to pass the value of the Radio option
